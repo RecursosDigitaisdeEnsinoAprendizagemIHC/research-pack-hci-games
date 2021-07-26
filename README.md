@@ -1,12 +1,12 @@
 # Pacote de Pesquisa - Survey de Jogos Educacionais em Interação Humano-Computador 
 
-## Introducao
+## Introdução
 
 Com o intuito de auxiliar o processo de desenvolvimento de jogos sérios digitais que apoiem o ensino e aprendizagem na área de Ciência da Computação, este survey serviu como ferramenta para alcançar o objetivo do trabalho "Aspectos de Qualidade em Jogos Sérios Digitais". O objetivo deste trabalho foi analisar  os aspectos  de  qualidade  em jogos sérios  digitais que auxiliaram  no  processo  de ensino e aprendizagem  de  estudantes de graduação e pós-graduação na ́area  de  Ciência  da  Computação.  Os  aspectos  de qualidades,  considerados  nesse  trabalho,  foram  os  requisitos  de  qualidade  do  jogo e a experiência do usuário (jogador).
 
 A Figura abaixo apresenta as etapas para realização de um survey segundo Kasunic (2005):
 
-<img src="https://user-images.githubusercontent.com/18116735/126552431-d9f409b4-2e93-4af5-9078-4b5c0de65c45.png" width="100%">
+<img src="flow_survey_kasunic.png" width="100%">
 
 O processo de um survey  inicia-se  com  a  identificação  do(s)  objetivo(s)  de  pesquisa. Em seguida é necessário identificar o público-alvo, pontuando  suas  características  relevantes  para  o estudo. Depois é feito  um  plano  de amostragem, definindo o local de coleta dos dados, o período, a forma de coleta e o instrumento. A partir disto ́e elaborado o questionário (o instrumento de pesquisa), sendo primeiramente feitas uma ou mais rodadas de teste, ajustes e melhorias para então o questionário em sua versão final ser distribuído. Ao final do período de coleta os dados são analisados e por fim é escrito o relatório dos resultados (Kasunic, 2005).
 
