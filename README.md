@@ -34,7 +34,11 @@ Neste Survey, o público-alvo definido foram alunos de graduação e pós-gradua
 
 ##  3. Projetar plano de amostragem
 
-Foi planejado para este estudo, um período de quatro semanas para a coleta dos dados, ou seja, a amostra de pesquisa foram os respondentes do dia 06/10/2020 ao dia 27/10/2020.
+Nessa etapa, o pesquisador determina como o questionário será distribuído para a população de potenciais respondentes. Será feito um plano de amostragem levando em conta como os indivídos serão selecionados e o tamanho da amostra. Isto está atrelado ao grau de generalização que se deseja que os resultados tenham.
+
+A amostragem desta pesquisa é não probabilística, pois não é objetivo deste trabalho generalizar os resultados para fora do público-alvo. Como pretende-se os resultados para elaboração de ferramentas de design para jogos de aprendizagem para cursos de computação não se faz necessário a generalização para outras áreas por exemplo. 
+
+Quanto ao tamanho da amostra, foi planejado para este estudo, um período de quatro semanas para a coleta dos dados, ou seja, a amostra de pesquisa foram os registros de respostas daqueles que participaram dentre os dias 06/10/2020 e 27/10/2020.
 
 ##  4. Projetar e escrever questionário
 
@@ -51,6 +55,8 @@ Nesta etapa são executadas a seguintes atividades:
 Na primeira atividade são elaboradas questões exeternas. Estas são baseadas nas questões internas levantadas como diretrizes para se alcançar o objetivo da pesquisa (definido na etapa 1). Estas questões externas serão as questões destinadas ao público-alvo e que podem envolver dados do tipo de atributos demográficos, atitudes do respondente, crenças e comportamentos. As perguntas são então priorizadas e modeladas na atividade seguinte.
 
 Na segunta atividade as questões são formatadas a fim de torná-las compreensíveis para o público-alvo e quantitativas para a análise do avaliador. É nesta fase que ocorre a transição da pergunta interna, que geralmente é aberta, para uma pergunta fechada, mista ou aberta, mas com uma linguagem mais simples. 
+
+Na terceira atividade 
 
 Partindo dos insumos obtidos nas etapas anteriores foi elaborado, nesta etapa, o questionário. Os fatores de qualidade do modelo MEEGA+ (Petri  e  Wangenheim, 2019), assim como os requisitos funcionais e características de experiência de usuário identificados por Sales e Silva (2020) foram base para sua elaboração. 
 
