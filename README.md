@@ -56,9 +56,14 @@ Na primeira atividade são elaboradas questões exeternas. Estas são baseadas n
 
 Na segunta atividade as questões são formatadas a fim de torná-las compreensíveis para o público-alvo e quantitativas para a análise do avaliador. É nesta fase que ocorre a transição da pergunta interna, que geralmente é aberta, para uma pergunta fechada, mista ou aberta, mas com uma linguagem mais simples. 
 
-Na terceira atividade 
+Na terceira atividade é preciso ajustar o layout do questionário completo, tamanho, seções, sequência das peguntas, textos de apoio etc. E por fim, a última atividade desta etapa é a preparação de documento que auxiliarão o respondente a preencher o questionário.
 
-Partindo dos insumos obtidos nas etapas anteriores foi elaborado, nesta etapa, o questionário. Os fatores de qualidade do modelo MEEGA+ (Petri  e  Wangenheim, 2019), assim como os requisitos funcionais e características de experiência de usuário identificados por Sales e Silva (2020) foram base para sua elaboração. 
+Esta pesquisa em si parte dos insumos obtidos nas etapas anteriores e assim o questionário é elaborado tendo em vistas as quatro atividades descritas. As perguntas externas foram modeladas ganhando um formato mais objetivo partindo dos fatores de qualidade do modelo MEEGA+ (Petri  e  Wangenheim, 2019), assim como dos requisitos funcionais e características de experiência de usuário identificados por Sales e Silva (2020).
+
+Foram realizadas alguma sessões com a equipe de pesquisa para modelar as perguntas numa lingugem mais apropriada e num layout objetivo e compreensível. Não foi necesário documentos auxiliares para a execução do questionário.
+
+Depois da primeira versão finalizada o questionário passou por algumas sessões de testes, ajustes e melhorias.
+
 
 ##  5. Questionário de teste piloto
 
