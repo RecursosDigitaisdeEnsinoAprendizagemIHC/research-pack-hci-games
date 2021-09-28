@@ -38,6 +38,18 @@ Foi planejado para este estudo, um período de quatro semanas para a coleta dos 
 
 ##  4. Projetar e escrever questionário
 
+Nesta etapa são executadas a seguintes atividades:
+
+4.1 Determinar as perguntas a serem feitas
+
+4.2 Selecione o tipo / formato de pergunta para cada pergunta e especifique o texto
+
+4.3 Projetar a sequência de perguntas e o layout geral do questionário
+
+4.4 Desenvolver documentos auxiliares
+
+Na primeira atividade são elaboradas questões exeternas. Estas são baseadas nas questões internas levantadas como diretrizes para se alcançar o objetivo da pesquisa (definido na etapa 1). Estas questões externas serão as questões destinadas ao público-alvo e que podem envolver dados do tipo de atributos demográficos, atitudes do respondente, crenças e comportamentos. As perguntas são então priorizadas e modeladas na atividade seguinte.
+
 Partindo dos insumos obtidos nas etapas anteriores foi elaborado, nesta etapa, o questionário. Os fatores de qualidade do modelo MEEGA+ (Petri  e  Wangenheim, 2019), assim como os requisitos funcionais e características de experiência de usuário identificados por Sales e Silva (2020) foram base para sua elaboração. 
 
 ##  5. Questionário de teste piloto
