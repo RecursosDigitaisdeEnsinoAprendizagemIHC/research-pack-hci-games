@@ -67,9 +67,13 @@ Depois da primeira versão finalizada o questionário passou por algumas sessõe
 
 ##  5. Questionário de teste piloto
 
-Antes da distribuição do questionário foi realizado um teste piloto com três pessoas. O objetivo do teste foi coletar feedbacks sobre a compreensão e o layout das perguntas, a estrutura e o fluxo do questionário e também identificar erros e o tempo médio para se concluir o questionário. O teste piloto foi realizado de forma virtual, via plataforma de vídeo-chamada. Primeiramente o respondente recebeu algumas informações introdutórias sobre a pesquisa, em seguida ele acessou o questionário em seu computador e ativou o compartilhamento de tela. Dada a confirmação para o início da execução do questionário foram anotadas as percepções do avaliador enquanto o participante respondia.
+Um teste piloto é uma simulação da implementação de sua pesquisa realizada em pequena escala com membros de sua população-alvo. Esse tipo de teste é realizado para expor os problemas e fraquezas nas perguntas, layout do questionário, processo e a tecnologia usada para apresentar o questionário.
 
-Concluído o teste piloto foi solicitado um relato oral do responte sobre sua percepção ao longo da execução do questionário, as quais foram anotadas pelo avaliador. Este processo foi realizado com cada um dos três participantes do teste piloto. Depois de analisadas as anotações, foram aplicadas as sugestões de melhoria e corrigidos os erros encontrados no questionário.
+Sendo assim, antes da distribuição do questionário foi realizado um teste piloto com três pessoas. O objetivo do teste foi coletar feedbacks sobre a compreensão e o layout das perguntas, a estrutura e o fluxo do questionário e também identificar erros e o tempo médio para se concluir o questionário. O teste piloto foi realizado de forma virtual, via plataforma de vídeo-chamada. 
+
+Primeiramente o respondente recebeu algumas informações introdutórias sobre a pesquisa, em seguida ele acessou o questionário em seu computador e ativou o compartilhamento de tela. Dada a confirmação para o início da execução do questionário foram anotadas as percepções do avaliador enquanto o participante respondia.
+
+Concluído o teste piloto foi solicitado um relato oral do responte sobre sua percepção ao longo da execução do questionário, as quais foram anotadas pelo avaliador. Este processo foi realizado com cada um dos três participantes do teste. Depois de analisadas as anotações, foram aplicadas as sugestões de melhoria e corrigidos os erros encontrados no questionário.
 
 ##  6. Distribuir questionário
 
