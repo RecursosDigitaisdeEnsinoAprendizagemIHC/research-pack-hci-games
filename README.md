@@ -77,7 +77,11 @@ Concluído o teste piloto foi solicitado um relato oral do responte sobre sua pe
 
 ##  6. Distribuir questionário
 
-Tendo o questionário já na sua versão final (Apêndice A), este foi distribuído via alguns meios de comunicação virtuais, como mensagem de e-mail e redes sociais para a comunidade discente das instituições de ensino da Universidade de Brasília (UnB), Universidade Federal do Mato Grosso do Sul (UFMS), Universidade Federal do Amazonas (UFAM), Universidade Federal do Mato Grosso (UFMT) e Universidade Católica de Salvador (UCSAL).
+Depois de testar o questionário piloto, inicia-se a etapa de distribução. Durante determinado período estipulado a equipe de pesquisadores deve notificar previamente os participantes, depois é enviado o questionário. Assim deve-se fazer o controle desta distribuição, monitorar a taxa de respostas e manter uma comunicação com os participantes.
+
+Já na sua versão final, o questionário deste trabalho, foi distribuído via alguns meios de comunicação virtuais, como mensagem de e-mail e redes sociais para a comunidade discente das instituições de ensino da Universidade de Brasília (UnB), Universidade Federal do Mato Grosso do Sul (UFMS), Universidade Federal do Amazonas (UFAM), Universidade Federal do Mato Grosso (UFMT) e Universidade Católica de Salvador (UCSAL).
+
+Durante o período estipulado a equipe de pesquisa monitorou a taxa de respostas sendo que, ao perceber uma baixa taxa de resposta, eram enviadas novas mensagens ao público-alvo para que estes se lembrassem de responder o questionário.
 
 ##  7. Analisar resultados e escrever relatório
 
