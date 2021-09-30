@@ -62,7 +62,7 @@ Esta pesquisa em si parte dos insumos obtidos nas etapas anteriores e assim o qu
 
 Foram realizadas alguma sessões com a equipe de pesquisa para modelar as perguntas numa lingugem mais apropriada e num layout objetivo e compreensível. Não foi necesário documentos auxiliares para a execução do questionário.
 
-Depois da primeira versão finalizada o questionário passou por algumas sessões de testes, ajustes e melhorias.
+Depois da primeira versão finalizada o questionário passou por algumas sessões de testes, ajustes e melhorias. A versão final pode ser visualizada em: https://docs.google.com/spreadsheets/d/e/2PACX-1vScM976m0IlvhrG7aA5q5KI2MpuY4rCMKIS4Ii_oW9bQ1Xz21R8baagXDwBqjO67FXXnxD-305Vl0sN/pubhtml?gid=226498042&single=true
 
 
 ##  5. Questionário de teste piloto
