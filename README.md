@@ -60,9 +60,7 @@ Na terceira atividade é preciso ajustar o layout do questionário completo, tam
 
 Esta pesquisa em si parte dos insumos obtidos nas etapas anteriores e assim o questionário é elaborado tendo em vistas as quatro atividades descritas. As perguntas externas foram modeladas ganhando um formato mais objetivo partindo dos fatores de qualidade do modelo MEEGA+ (Petri  e  Wangenheim, 2019), assim como dos requisitos funcionais e características de experiência de usuário identificados por Sales e Silva (2020).
 
-Foram realizadas alguma sessões com a equipe de pesquisa para modelar as perguntas numa lingugem mais apropriada e num layout objetivo e compreensível. Não foi necesário documentos auxiliares para a execução do questionário.
-
-Depois da primeira versão finalizada o questionário passou por algumas sessões de testes, ajustes e melhorias. A versão final pode ser visualizada em: https://docs.google.com/spreadsheets/d/e/2PACX-1vScM976m0IlvhrG7aA5q5KI2MpuY4rCMKIS4Ii_oW9bQ1Xz21R8baagXDwBqjO67FXXnxD-305Vl0sN/pubhtml?gid=226498042&single=true
+Foram realizadas alguma sessões com a equipe de pesquisa para modelar as perguntas numa lingugem mais apropriada e num layout objetivo e compreensível. Não foi necesário documentos auxiliares para a execução do questionário. Depois da primeira versão finalizada o questionário passou por algumas sessões de testes, ajustes e melhorias.
 
 
 ##  5. Questionário de teste piloto
@@ -73,7 +71,7 @@ Sendo assim, antes da distribuição do questionário foi realizado um teste pil
 
 Primeiramente o respondente recebeu algumas informações introdutórias sobre a pesquisa, em seguida ele acessou o questionário em seu computador e ativou o compartilhamento de tela. Dada a confirmação para o início da execução do questionário foram anotadas as percepções do avaliador enquanto o participante respondia.
 
-Concluído o teste piloto foi solicitado um relato oral do responte sobre sua percepção ao longo da execução do questionário, as quais foram anotadas pelo avaliador. Este processo foi realizado com cada um dos três participantes do teste. Depois de analisadas as anotações, foram aplicadas as sugestões de melhoria e corrigidos os erros encontrados no questionário.
+Concluído o teste piloto foi solicitado um relato oral do responte sobre sua percepção ao longo da execução do questionário, as quais foram anotadas pelo avaliador. Este processo foi realizado com cada um dos três participantes do teste. Depois de analisadas as anotações, foram aplicadas as sugestões de melhoria e corrigidos os erros encontrados no questionário.  A versão final pode ser visualizada em: https://docs.google.com/spreadsheets/d/e/2PACX-1vScM976m0IlvhrG7aA5q5KI2MpuY4rCMKIS4Ii_oW9bQ1Xz21R8baagXDwBqjO67FXXnxD-305Vl0sN/pubhtml?gid=226498042&single=true
 
 ##  6. Distribuir questionário
 
