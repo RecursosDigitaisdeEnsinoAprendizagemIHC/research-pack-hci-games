@@ -83,8 +83,16 @@ Durante o período estipulado a equipe de pesquisa monitorou a taxa de respostas
 
 ##  7. Analisar resultados e escrever relatório
 
+texto introdutório
+
+apresentar os resultados obtidos (tabela dos dados e gráficos)
+
+a análise dos resultados se encontra no artigo da renote(link pra lá)
+
 ## Referência
 
 - Kasunic, M.Designing an effective survey. [S.l.], 2005
 - Petri,  G.;  Wangenheim,  C.  G.  A  method  for  the  evaluation  of  the  quality  of  gamesfor  computing  education.  In: Anais  dos  Workshops  do  VIII  Congresso  Brasileiro de  Informática  na  Educação  (CBIE  2019).  Brazilian  Computer  Society  (Sociedade Brasileira de Computação - SBC), 2019. p. 951. Disponível em: [https://br-ie.org/pub/index.php/wcbie/article/view/9045](https://br-ie.org/pub/index.php/wcbie/article/view/9045).
 - Sales, A. B. de;  Silva, M. A. S. e. Jogos sérios no processo de ensino e aprendizagem de interação humano-computador. In:Anais do XXXI Simpósio Brasileiro de Informática na  Educação.  Porto  Alegre,  RS,  Brasil:   SBC,  2020.  p.  552–561.  ISSN  0000-0000. Disponível em: [https://sol.sbc.org.br/index.php/sbie/article/view/12811](https://sol.sbc.org.br/index.php/sbie/article/view/12811).
+- A. SOUSA E SILVA, Mateus; BARROS DE SALES, André; FREITAS MENDES, Fabiana. Aspectos de qualidade em jogos sérios digitais. RENOTE, v. 19, n. 1, p. 207–216, 2021. Disponível em : [https://doi.org/10.22456/1679-1916.118428](https://doi.org/10.22456/1679-1916.118428)
+
